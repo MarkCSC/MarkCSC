@@ -1,4 +1,7 @@
 ### Hi there 👋
+This is Mark from The Chinese University of Hong Kong.
+
+:bar_chart: I am interested in Machine Learning and Software Engineering
 
 <!--
 **MarkCSC/MarkCSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
